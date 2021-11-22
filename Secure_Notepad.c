@@ -5,7 +5,7 @@
 int main()
 {
     system("cls"); int n;
-    ///system("color 1E");                                   /// CAN USE TO CHANGE INTERFACE AND TEXT COLOUR
+    system("color 70");                                   /// CAN USE TO CHANGE INTERFACE AND TEXT COLOUR
 
     while(1)
     {
