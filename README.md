@@ -75,5 +75,6 @@
    Or git clone whole repository and use commands
    
    gcc Secure_Notepad.c -o secure_notepad
+   
    ./secure_notepad
    
