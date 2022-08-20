@@ -12,9 +12,12 @@ int main()
         n= logprompt();
         switch(n)
         {
-            case F1 : login();   break;
-            case F2 : userreg(); break;
-            case F3 : about ();  break;
+            case F1 : login(); 
+            break;
+            case F2 : userreg(); 
+            break;
+            case F3 : about ();
+            break;
             case ESC : escape();
         }
         system("cls");                                       /// CLEARS SCREEN
